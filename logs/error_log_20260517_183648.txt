@@ -1,0 +1,24 @@
+2026-05-17 18:36:48,592 | INFO | ============================================================
+2026-05-17 18:36:48,593 | INFO | EDA PIPELINE START
+2026-05-17 18:36:48,593 | INFO | ============================================================
+2026-05-17 18:36:48,593 | INFO | No cache found. Sampling from 2018_Yellow_Taxi_Trip_Data_20260516.csv with ratio=0.005
+2026-05-17 18:38:15,840 | INFO | Sampled 560,501 rows from CSV.
+2026-05-17 18:38:18,048 | INFO | Sample cached to data_sample.parquet
+2026-05-17 18:38:18,076 | INFO | Schema saved to data_schema.json
+2026-05-17 18:38:18,076 | INFO | Schema: 560,501 rows × 17 cols
+2026-05-17 18:38:18,103 | INFO | Dropped 0 columns, 0 rows with nulls.
+2026-05-17 18:40:04,783 | WARNING | Found 4 rows with pickup year != 2018 (data quality).
+2026-05-17 18:40:04,877 | INFO | Binarized 'store_and_fwd_flag': Y=1, N=0
+2026-05-17 18:40:05,966 | INFO | Outliers in 'trip_distance': 63,902 (11.4%)
+2026-05-17 18:40:05,988 | INFO | Outliers in 'fare_amount': 51,105 (9.12%)
+2026-05-17 18:40:06,010 | INFO | Outliers in 'total_amount': 53,670 (9.58%)
+2026-05-17 18:40:06,030 | INFO | Outliers in 'tip_amount': 29,963 (5.35%)
+2026-05-17 18:40:06,048 | INFO | Outliers in 'passenger_count': 51,311 (9.15%)
+2026-05-17 18:40:06,068 | INFO | Outliers in 'trip_duration_min': 30,918 (5.52%)
+2026-05-17 18:40:06,098 | INFO | Statistical analysis complete.
+2026-05-17 18:40:06,102 | INFO | Analysis results saved to analysis_results.json
+2026-05-17 18:40:06,410 | INFO | Enriched sample saved back to parquet cache.
+2026-05-17 18:40:06,410 | INFO | ============================================================
+2026-05-17 18:40:06,410 | INFO | EDA PIPELINE COMPLETE — Run eda_viz.py next.
+2026-05-17 18:40:06,410 | INFO | Final dataframe: 560,501 rows × 22 columns
+2026-05-17 18:40:06,410 | INFO | ============================================================

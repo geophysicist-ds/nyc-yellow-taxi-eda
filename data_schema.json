@@ -1,0 +1,212 @@
+{
+  "shape": [
+    560501,
+    17
+  ],
+  "columns": {
+    "VendorID": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "2",
+        "1",
+        "2",
+        "2",
+        "2"
+      ]
+    },
+    "tpep_pickup_datetime": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "2019 Feb 19 04:32:12 PM",
+        "2018 Dec 31 11:58:27 PM",
+        "2018 Dec 31 11:56:54 PM",
+        "2018 Dec 31 11:56:27 PM",
+        "2018 Dec 31 11:52:05 PM"
+      ]
+    },
+    "tpep_dropoff_datetime": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "2019 Feb 19 04:35:28 PM",
+        "2019 Jan 01 12:22:30 AM",
+        "2019 Jan 01 12:37:31 AM",
+        "2019 Jan 01 12:12:09 AM",
+        "2018 Dec 31 11:57:53 PM"
+      ]
+    },
+    "passenger_count": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "2"
+      ]
+    },
+    "trip_distance": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "0.63",
+        "2.8",
+        "23.68",
+        "2.3",
+        "1.66"
+      ]
+    },
+    "RatecodeID": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "1",
+        "1",
+        "2",
+        "1",
+        "1"
+      ]
+    },
+    "store_and_fwd_flag": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    "PULocationID": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "238",
+        "79",
+        "132",
+        "151",
+        "146"
+      ]
+    },
+    "DOLocationID": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "239",
+        "68",
+        "50",
+        "75",
+        "179"
+      ]
+    },
+    "payment_type": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "2"
+      ]
+    },
+    "fare_amount": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "4.5",
+        "16.0",
+        "52.0",
+        "11.5",
+        "7.0"
+      ]
+    },
+    "extra": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "0.0",
+        "0.5",
+        "0.0",
+        "0.5",
+        "0.5"
+      ]
+    },
+    "mta_tax": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5"
+      ]
+    },
+    "tip_amount": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "1.06",
+        "1.73",
+        "17.57",
+        "0.0",
+        "0.0"
+      ]
+    },
+    "tolls_amount": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "0.0",
+        "0.0",
+        "5.76",
+        "0.0",
+        "0.0"
+      ]
+    },
+    "improvement_surcharge": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "0.3",
+        "0.3",
+        "0.3",
+        "0.3",
+        "0.3"
+      ]
+    },
+    "total_amount": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "sample_values": [
+        "6.36",
+        "19.03",
+        "76.13",
+        "12.8",
+        "8.3"
+      ]
+    }
+  }
+}

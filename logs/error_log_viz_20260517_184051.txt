@@ -1,0 +1,430 @@
+2026-05-17 18:40:51,690 | INFO | ============================================================
+2026-05-17 18:40:51,690 | INFO | VIZ PIPELINE START
+2026-05-17 18:40:51,690 | INFO | ============================================================
+2026-05-17 18:40:55,106 | INFO | Loaded sample: (560501, 22)
+2026-05-17 18:40:57,124 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:40:57,179 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:40:57,181 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpw07tu1_b.
+2026-05-17 18:40:57,181 | INFO | Opening browser.
+2026-05-17 18:40:57,183 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpitw1slrw.
+2026-05-17 18:40:57,183 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpitw1slrw
+2026-05-17 18:41:06,272 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpw07tu1_b/index.html
+2026-05-17 18:41:07,586 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:41:07,586 | INFO | Got 5F3F
+2026-05-17 18:41:11,703 | INFO | Reloading tab 5F3F before return.
+2026-05-17 18:41:11,933 | INFO | Putting tab 5F3F back (queue size: 0).
+2026-05-17 18:41:11,933 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:41:11,933 | INFO | Exiting Kaleido.
+2026-05-17 18:41:11,934 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:11,934 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:11,934 | INFO | Closing browser.
+2026-05-17 18:41:11,937 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:11,938 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:11,938 | INFO | Closing browser.
+2026-05-17 18:41:11,939 | INFO | Cancelling tasks.
+2026-05-17 18:41:11,939 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:12,344 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:12,345 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:12,345 | INFO | Cancelling tasks.
+2026-05-17 18:41:12,345 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:12,860 | INFO | Saved plot: 01_distributions
+2026-05-17 18:41:13,014 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:41:13,015 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:41:13,016 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpghrg68eo.
+2026-05-17 18:41:13,016 | INFO | Opening browser.
+2026-05-17 18:41:13,017 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpnnuyvcv8.
+2026-05-17 18:41:13,017 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpnnuyvcv8
+2026-05-17 18:41:14,939 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpghrg68eo/index.html
+2026-05-17 18:41:16,528 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:41:16,529 | INFO | Got 9304
+2026-05-17 18:41:16,722 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:16,829 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:32,112 | INFO | Reloading tab 9304 before return.
+2026-05-17 18:41:32,956 | INFO | Putting tab 9304 back (queue size: 0).
+2026-05-17 18:41:32,957 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:41:32,958 | INFO | Exiting Kaleido.
+2026-05-17 18:41:32,959 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:32,959 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:32,959 | INFO | Closing browser.
+2026-05-17 18:41:32,974 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:32,975 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:32,975 | INFO | Closing browser.
+2026-05-17 18:41:32,976 | INFO | Cancelling tasks.
+2026-05-17 18:41:32,976 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:33,841 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:33,842 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:33,842 | INFO | Cancelling tasks.
+2026-05-17 18:41:33,842 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:34,389 | INFO | Saved plot: 02_boxplots
+2026-05-17 18:41:35,150 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:41:35,152 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:41:35,152 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp4_75jtyi.
+2026-05-17 18:41:35,153 | INFO | Opening browser.
+2026-05-17 18:41:35,153 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpbnl8h_7u.
+2026-05-17 18:41:35,154 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpbnl8h_7u
+2026-05-17 18:41:37,252 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp4_75jtyi/index.html
+2026-05-17 18:41:38,867 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:41:38,867 | INFO | Got AC48
+2026-05-17 18:41:39,143 | INFO | Reloading tab AC48 before return.
+2026-05-17 18:41:39,379 | INFO | Putting tab AC48 back (queue size: 0).
+2026-05-17 18:41:39,379 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:41:39,379 | INFO | Exiting Kaleido.
+2026-05-17 18:41:39,380 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:39,380 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:39,380 | INFO | Closing browser.
+2026-05-17 18:41:39,382 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:39,382 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:39,383 | INFO | Closing browser.
+2026-05-17 18:41:39,383 | INFO | Cancelling tasks.
+2026-05-17 18:41:39,383 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:39,719 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:39,719 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:39,719 | INFO | Cancelling tasks.
+2026-05-17 18:41:39,719 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:39,791 | INFO | Saved plot: 03_correlation_heatmap
+2026-05-17 18:41:39,820 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:39,820 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:39,915 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:41:39,917 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:41:39,917 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpy5aw91i1.
+2026-05-17 18:41:39,918 | INFO | Opening browser.
+2026-05-17 18:41:39,919 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpkxugiydf.
+2026-05-17 18:41:39,919 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpkxugiydf
+2026-05-17 18:41:41,810 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpy5aw91i1/index.html
+2026-05-17 18:41:43,529 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:41:43,529 | INFO | Got C9BA
+2026-05-17 18:41:43,654 | INFO | Reloading tab C9BA before return.
+2026-05-17 18:41:43,881 | INFO | Putting tab C9BA back (queue size: 0).
+2026-05-17 18:41:43,882 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:41:43,882 | INFO | Exiting Kaleido.
+2026-05-17 18:41:43,883 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:43,883 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:43,883 | INFO | Closing browser.
+2026-05-17 18:41:43,886 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:43,887 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:43,887 | INFO | Closing browser.
+2026-05-17 18:41:43,887 | INFO | Cancelling tasks.
+2026-05-17 18:41:43,887 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:44,211 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:44,212 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:44,212 | INFO | Cancelling tasks.
+2026-05-17 18:41:44,212 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:44,265 | INFO | Saved plot: 04_hourly_trips
+2026-05-17 18:41:44,311 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:44,312 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:44,329 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:41:44,330 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:41:44,331 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmppdwzmxn6.
+2026-05-17 18:41:44,331 | INFO | Opening browser.
+2026-05-17 18:41:44,332 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmphuw6wi82.
+2026-05-17 18:41:44,332 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmphuw6wi82
+2026-05-17 18:41:46,203 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmppdwzmxn6/index.html
+2026-05-17 18:41:47,748 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:41:47,748 | INFO | Got BC46
+2026-05-17 18:41:47,876 | INFO | Reloading tab BC46 before return.
+2026-05-17 18:41:48,090 | INFO | Putting tab BC46 back (queue size: 0).
+2026-05-17 18:41:48,090 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:41:48,090 | INFO | Exiting Kaleido.
+2026-05-17 18:41:48,091 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:48,091 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:48,091 | INFO | Closing browser.
+2026-05-17 18:41:48,093 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:48,093 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:48,093 | INFO | Closing browser.
+2026-05-17 18:41:48,093 | INFO | Cancelling tasks.
+2026-05-17 18:41:48,094 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:48,363 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:48,363 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:48,363 | INFO | Cancelling tasks.
+2026-05-17 18:41:48,364 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:48,414 | INFO | Saved plot: 05_dow_trips
+2026-05-17 18:41:48,540 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:41:48,541 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:41:48,542 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpu9x2ny7s.
+2026-05-17 18:41:48,542 | INFO | Opening browser.
+2026-05-17 18:41:48,543 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpr17qcv1p.
+2026-05-17 18:41:48,543 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpr17qcv1p
+2026-05-17 18:41:50,480 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpu9x2ny7s/index.html
+2026-05-17 18:41:52,040 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:41:52,041 | INFO | Got E638
+2026-05-17 18:41:52,774 | INFO | Reloading tab E638 before return.
+2026-05-17 18:41:53,015 | INFO | Putting tab E638 back (queue size: 0).
+2026-05-17 18:41:53,015 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:41:53,015 | INFO | Exiting Kaleido.
+2026-05-17 18:41:53,016 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:53,016 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:53,016 | INFO | Closing browser.
+2026-05-17 18:41:53,018 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:53,018 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:53,018 | INFO | Closing browser.
+2026-05-17 18:41:53,018 | INFO | Cancelling tasks.
+2026-05-17 18:41:53,019 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:53,283 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:53,283 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:53,283 | INFO | Cancelling tasks.
+2026-05-17 18:41:53,283 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:53,288 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:53,288 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:53,344 | INFO | Saved plot: 06_fare_vs_distance
+2026-05-17 18:41:53,394 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:41:53,396 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:41:53,396 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpt3f0o4zo.
+2026-05-17 18:41:53,397 | INFO | Opening browser.
+2026-05-17 18:41:53,397 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpctnkag7c.
+2026-05-17 18:41:53,397 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpctnkag7c
+2026-05-17 18:41:55,288 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpt3f0o4zo/index.html
+2026-05-17 18:41:56,835 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:41:56,835 | INFO | Got BA53
+2026-05-17 18:41:56,954 | INFO | Reloading tab BA53 before return.
+2026-05-17 18:41:57,168 | INFO | Putting tab BA53 back (queue size: 0).
+2026-05-17 18:41:57,169 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:41:57,169 | INFO | Exiting Kaleido.
+2026-05-17 18:41:57,170 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:57,170 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:57,170 | INFO | Closing browser.
+2026-05-17 18:41:57,175 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:57,175 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:57,175 | INFO | Closing browser.
+2026-05-17 18:41:57,175 | INFO | Cancelling tasks.
+2026-05-17 18:41:57,175 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:57,441 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:57,442 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:57,442 | INFO | Cancelling tasks.
+2026-05-17 18:41:57,442 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:41:57,489 | INFO | Saved plot: 07_payment_type
+2026-05-17 18:41:57,613 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:57,613 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:57,613 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:41:57,613 | INFO | shutil.rmtree worked.
+2026-05-17 18:41:58,126 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:41:58,127 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:41:58,128 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpfsb66k5l.
+2026-05-17 18:41:58,128 | INFO | Opening browser.
+2026-05-17 18:41:58,129 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpz1xoi1iq.
+2026-05-17 18:41:58,129 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpz1xoi1iq
+2026-05-17 18:42:00,029 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpfsb66k5l/index.html
+2026-05-17 18:42:01,729 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:42:01,729 | INFO | Got 94C5
+2026-05-17 18:42:05,068 | INFO | Reloading tab 94C5 before return.
+2026-05-17 18:42:05,307 | INFO | Putting tab 94C5 back (queue size: 0).
+2026-05-17 18:42:05,308 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:42:05,308 | INFO | Exiting Kaleido.
+2026-05-17 18:42:05,308 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:05,309 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:05,309 | INFO | Closing browser.
+2026-05-17 18:42:05,310 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:05,311 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:05,311 | INFO | Closing browser.
+2026-05-17 18:42:05,311 | INFO | Cancelling tasks.
+2026-05-17 18:42:05,311 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:05,674 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:05,674 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:05,674 | INFO | Cancelling tasks.
+2026-05-17 18:42:05,674 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:06,383 | INFO | Saved plot: 08_tip_by_payment
+2026-05-17 18:42:06,468 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:42:06,469 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:42:06,470 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp16dogvjj.
+2026-05-17 18:42:06,470 | INFO | Opening browser.
+2026-05-17 18:42:06,471 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp6_tbwf7o.
+2026-05-17 18:42:06,471 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp6_tbwf7o
+2026-05-17 18:42:08,424 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp16dogvjj/index.html
+2026-05-17 18:42:10,099 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:42:10,100 | INFO | Got 492B
+2026-05-17 18:42:10,831 | INFO | Reloading tab 492B before return.
+2026-05-17 18:42:11,055 | INFO | Putting tab 492B back (queue size: 0).
+2026-05-17 18:42:11,055 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:42:11,056 | INFO | Exiting Kaleido.
+2026-05-17 18:42:11,056 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:11,056 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:11,056 | INFO | Closing browser.
+2026-05-17 18:42:11,058 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:11,058 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:11,058 | INFO | Closing browser.
+2026-05-17 18:42:11,059 | INFO | Cancelling tasks.
+2026-05-17 18:42:11,059 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:11,334 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:11,334 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:11,334 | INFO | Cancelling tasks.
+2026-05-17 18:42:11,334 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:11,474 | INFO | Saved plot: 09_trip_duration
+2026-05-17 18:42:11,567 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:11,567 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:11,567 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:11,567 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:12,064 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:42:12,066 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:42:12,066 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp0plnscxm.
+2026-05-17 18:42:12,067 | INFO | Opening browser.
+2026-05-17 18:42:12,067 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpyocqrr35.
+2026-05-17 18:42:12,068 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpyocqrr35
+2026-05-17 18:42:13,948 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp0plnscxm/index.html
+2026-05-17 18:42:15,525 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:42:15,525 | INFO | Got 02D3
+2026-05-17 18:42:19,930 | INFO | Reloading tab 02D3 before return.
+2026-05-17 18:42:20,154 | INFO | Putting tab 02D3 back (queue size: 0).
+2026-05-17 18:42:20,154 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:42:20,155 | INFO | Exiting Kaleido.
+2026-05-17 18:42:20,155 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:20,155 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:20,155 | INFO | Closing browser.
+2026-05-17 18:42:20,157 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:20,158 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:20,158 | INFO | Closing browser.
+2026-05-17 18:42:20,158 | INFO | Cancelling tasks.
+2026-05-17 18:42:20,158 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:20,578 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:20,578 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:20,578 | INFO | Cancelling tasks.
+2026-05-17 18:42:20,578 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:20,952 | INFO | Saved plot: 10_vendor_comparison
+2026-05-17 18:42:21,010 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:42:21,012 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:42:21,012 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpkmu5i45r.
+2026-05-17 18:42:21,013 | INFO | Opening browser.
+2026-05-17 18:42:21,014 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpk936e7_5.
+2026-05-17 18:42:21,014 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpk936e7_5
+2026-05-17 18:42:22,921 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpkmu5i45r/index.html
+2026-05-17 18:42:24,555 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:42:24,555 | INFO | Got 35AF
+2026-05-17 18:42:24,681 | INFO | Reloading tab 35AF before return.
+2026-05-17 18:42:24,917 | INFO | Putting tab 35AF back (queue size: 0).
+2026-05-17 18:42:24,917 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:42:24,917 | INFO | Exiting Kaleido.
+2026-05-17 18:42:24,920 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:24,920 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:24,920 | INFO | Closing browser.
+2026-05-17 18:42:24,922 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:24,923 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:24,923 | INFO | Closing browser.
+2026-05-17 18:42:24,923 | INFO | Cancelling tasks.
+2026-05-17 18:42:24,923 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:25,242 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:25,242 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:25,242 | INFO | Cancelling tasks.
+2026-05-17 18:42:25,242 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:25,294 | INFO | Saved plot: 11_monthly_trips
+2026-05-17 18:42:25,309 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:25,310 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:25,310 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:25,310 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:25,363 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:42:25,364 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:42:25,365 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpislsprkf.
+2026-05-17 18:42:25,365 | INFO | Opening browser.
+2026-05-17 18:42:25,366 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpf80jy0ri.
+2026-05-17 18:42:25,366 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpf80jy0ri
+2026-05-17 18:42:27,249 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpislsprkf/index.html
+2026-05-17 18:42:28,961 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:42:28,961 | INFO | Got F071
+2026-05-17 18:42:29,089 | INFO | Reloading tab F071 before return.
+2026-05-17 18:42:29,329 | INFO | Putting tab F071 back (queue size: 0).
+2026-05-17 18:42:29,330 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:42:29,330 | INFO | Exiting Kaleido.
+2026-05-17 18:42:29,331 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:29,331 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:29,331 | INFO | Closing browser.
+2026-05-17 18:42:29,333 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:29,333 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:29,333 | INFO | Closing browser.
+2026-05-17 18:42:29,333 | INFO | Cancelling tasks.
+2026-05-17 18:42:29,333 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:29,601 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:29,601 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:29,601 | INFO | Cancelling tasks.
+2026-05-17 18:42:29,601 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:29,658 | INFO | Saved plot: 12_top_locations
+2026-05-17 18:42:29,678 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:29,678 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:29,739 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:42:29,740 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:42:29,741 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpsj3rwyj9.
+2026-05-17 18:42:29,741 | INFO | Opening browser.
+2026-05-17 18:42:29,742 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpj3dwl1da.
+2026-05-17 18:42:29,742 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpj3dwl1da
+2026-05-17 18:42:31,621 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpsj3rwyj9/index.html
+2026-05-17 18:42:33,198 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:42:33,198 | INFO | Got 492D
+2026-05-17 18:42:33,323 | INFO | Reloading tab 492D before return.
+2026-05-17 18:42:33,547 | INFO | Putting tab 492D back (queue size: 0).
+2026-05-17 18:42:33,548 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:42:33,548 | INFO | Exiting Kaleido.
+2026-05-17 18:42:33,548 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:33,549 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:33,549 | INFO | Closing browser.
+2026-05-17 18:42:33,550 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:33,551 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:33,551 | INFO | Closing browser.
+2026-05-17 18:42:33,551 | INFO | Cancelling tasks.
+2026-05-17 18:42:33,552 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:33,826 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:33,826 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:33,827 | INFO | Cancelling tasks.
+2026-05-17 18:42:33,827 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:33,877 | INFO | Saved plot: 13_fare_components
+2026-05-17 18:42:33,910 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:33,910 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:33,981 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:33,981 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:34,091 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:42:34,092 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:42:34,093 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp5v5v19wy.
+2026-05-17 18:42:34,093 | INFO | Opening browser.
+2026-05-17 18:42:34,094 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmps_q27r6p.
+2026-05-17 18:42:34,094 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmps_q27r6p
+2026-05-17 18:42:35,993 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp5v5v19wy/index.html
+2026-05-17 18:42:37,555 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:42:37,556 | INFO | Got 9B25
+2026-05-17 18:42:37,693 | INFO | Reloading tab 9B25 before return.
+2026-05-17 18:42:37,919 | INFO | Putting tab 9B25 back (queue size: 0).
+2026-05-17 18:42:37,919 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:42:37,919 | INFO | Exiting Kaleido.
+2026-05-17 18:42:37,920 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:37,920 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:37,920 | INFO | Closing browser.
+2026-05-17 18:42:37,922 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:37,922 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:37,923 | INFO | Closing browser.
+2026-05-17 18:42:37,923 | INFO | Cancelling tasks.
+2026-05-17 18:42:37,923 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:38,190 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:38,190 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:38,190 | INFO | Cancelling tasks.
+2026-05-17 18:42:38,190 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:38,246 | INFO | Saved plot: 14_passenger_count
+2026-05-17 18:42:38,363 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 18:42:38,364 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 18:42:38,365 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpz1ool7lv.
+2026-05-17 18:42:38,365 | INFO | Opening browser.
+2026-05-17 18:42:38,366 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpjmlnpdkv.
+2026-05-17 18:42:38,366 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpjmlnpdkv
+2026-05-17 18:42:40,266 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpz1ool7lv/index.html
+2026-05-17 18:42:41,833 | INFO | Getting tab from queue (has 1)
+2026-05-17 18:42:41,833 | INFO | Got 6A49
+2026-05-17 18:42:41,961 | INFO | Reloading tab 6A49 before return.
+2026-05-17 18:42:42,186 | INFO | Putting tab 6A49 back (queue size: 0).
+2026-05-17 18:42:42,187 | INFO | Waiting for all cleanups to finish.
+2026-05-17 18:42:42,187 | INFO | Exiting Kaleido.
+2026-05-17 18:42:42,189 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:42,189 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:42,189 | INFO | Closing browser.
+2026-05-17 18:42:42,191 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:42,191 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:42,192 | INFO | Closing browser.
+2026-05-17 18:42:42,192 | INFO | Cancelling tasks.
+2026-05-17 18:42:42,192 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:42,467 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:42,468 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:42,468 | INFO | Cancelling tasks.
+2026-05-17 18:42:42,468 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 18:42:42,470 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:42,470 | INFO | shutil.rmtree worked.
+2026-05-17 18:42:42,525 | INFO | Saved plot: 15_hour_dow_heatmap
+2026-05-17 18:42:42,526 | INFO | Report saved to eda_report.html
+2026-05-17 18:42:42,526 | INFO | ============================================================
+2026-05-17 18:42:42,527 | INFO | VIZ COMPLETE — 15 plots generated.
+2026-05-17 18:42:42,527 | INFO | Skipped plots: None
+2026-05-17 18:42:42,527 | INFO | Report: eda_report.html
+2026-05-17 18:42:42,527 | INFO | ============================================================
+2026-05-17 18:42:42,764 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 18:42:42,765 | INFO | shutil.rmtree worked.

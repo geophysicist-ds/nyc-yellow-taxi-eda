@@ -1,0 +1,25 @@
+# Raw data — too large for GitHub (14GB)
+*.parquet
+*.csv
+*.zip
+*.gz
+
+# Large HTML plots (>25MB — exceed GitHub per-file limit)
+plots/01_distributions.html
+plots/02_boxplots.html
+plots/10_vendor_comparison.html
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.venv/
+venv/

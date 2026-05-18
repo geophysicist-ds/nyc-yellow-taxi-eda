@@ -1,0 +1,48 @@
+2026-05-17 20:23:36,396 | INFO | ============================================================
+2026-05-17 20:23:36,396 | INFO | PHASE 4B: BOROUGH CHOROPLETH MAP
+2026-05-17 20:23:36,396 | INFO | ============================================================
+2026-05-17 20:23:36,578 | INFO | Loaded 560,501 rows
+2026-05-17 20:23:36,579 | INFO | Downloading GeoJSON from https://data.cityofnewyork.us/api/geospatial/7t3b-ywvw?method=export&type=GeoJSON
+2026-05-17 20:23:36,957 | WARNING | GeoJSON download failed (HTTP Error 400: Bad Request) — using fallback polygons
+2026-05-17 20:23:36,958 | INFO | GeoJSON borough key: 'boro_name'
+2026-05-17 20:23:37,050 | INFO | Borough counts:
+    boro_name  trip_count   pct
+    Manhattan      507747 90.59
+       Queens       35708  6.37
+      Unknown        9185  1.64
+     Brooklyn        7153  1.28
+        Bronx         644  0.11
+          EWR          45  0.01
+Staten Island          19  0.00
+2026-05-17 20:23:37,050 | INFO | GeoJSON boroughs: ['Bronx', 'Brooklyn', 'EWR', 'Manhattan', 'Queens', 'Staten Island']
+2026-05-17 20:23:37,417 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 20:23:37,444 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 20:23:37,446 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpxhpy1dns.
+2026-05-17 20:23:37,446 | INFO | Opening browser.
+2026-05-17 20:23:37,447 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp7jjd6u98.
+2026-05-17 20:23:37,447 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmp7jjd6u98
+2026-05-17 20:23:39,583 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpxhpy1dns/index.html
+2026-05-17 20:23:40,911 | INFO | Getting tab from queue (has 1)
+2026-05-17 20:23:40,911 | INFO | Got 1C71
+2026-05-17 20:23:42,376 | INFO | Reloading tab 1C71 before return.
+2026-05-17 20:23:42,602 | INFO | Putting tab 1C71 back (queue size: 0).
+2026-05-17 20:23:42,602 | INFO | Waiting for all cleanups to finish.
+2026-05-17 20:23:42,602 | INFO | Exiting Kaleido.
+2026-05-17 20:23:42,603 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 20:23:42,603 | INFO | shutil.rmtree worked.
+2026-05-17 20:23:42,603 | INFO | Closing browser.
+2026-05-17 20:23:42,605 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 20:23:42,606 | INFO | shutil.rmtree worked.
+2026-05-17 20:23:42,606 | INFO | Closing browser.
+2026-05-17 20:23:42,606 | INFO | Cancelling tasks.
+2026-05-17 20:23:42,607 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 20:23:43,101 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 20:23:43,101 | INFO | shutil.rmtree worked.
+2026-05-17 20:23:43,101 | INFO | Cancelling tasks.
+2026-05-17 20:23:43,102 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 20:23:43,162 | INFO | Saved: 27_borough_trip_density
+2026-05-17 20:23:43,162 | INFO | ============================================================
+2026-05-17 20:23:43,163 | INFO | PHASE 4B COMPLETE — plot 27 saved to plots/
+2026-05-17 20:23:43,163 | INFO | ============================================================
+2026-05-17 20:23:43,368 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 20:23:43,368 | INFO | shutil.rmtree worked.

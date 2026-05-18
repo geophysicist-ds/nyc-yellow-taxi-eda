@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ruff check --fix . && ruff format .)",
+      "Bash(uv venv --python 3.12 .venv)",
+      "Bash(uv pip install *)",
+      "Bash(uv pip install -r requirements.txt)",
+      "Bash(mkdir -p plots)",
+      "Bash(mkdir -p logs)",
+      "Bash(mkdir -p .claude)",
+      "Bash(touch .env)",
+      "Bash(uv run python eda_main.py)",
+      "Bash(uv run python eda_viz.py)"
+    ],
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(sudo *)",
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "Bash(cd ../*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run ruff check --fix . && uv run ruff format ."
+          }
+        ]
+      }
+    ]
+  }
+}
+

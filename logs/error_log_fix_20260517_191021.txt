@@ -1,0 +1,32 @@
+2026-05-17 19:10:21,816 | INFO | Loading data and results...
+2026-05-17 19:10:22,006 | INFO | Zone lookup columns: ['LocationID', 'Borough', 'Zone', 'service_zone']
+2026-05-17 19:10:22,448 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 19:10:22,479 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 19:10:22,481 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpi3km8jdv.
+2026-05-17 19:10:22,482 | INFO | Opening browser.
+2026-05-17 19:10:22,483 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpudk0fglg.
+2026-05-17 19:10:22,483 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpudk0fglg
+2026-05-17 19:10:24,251 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpi3km8jdv/index.html
+2026-05-17 19:10:25,504 | INFO | Getting tab from queue (has 1)
+2026-05-17 19:10:25,505 | INFO | Got E52E
+2026-05-17 19:10:25,588 | INFO | Reloading tab E52E before return.
+2026-05-17 19:10:25,764 | INFO | Putting tab E52E back (queue size: 0).
+2026-05-17 19:10:25,764 | INFO | Waiting for all cleanups to finish.
+2026-05-17 19:10:25,764 | INFO | Exiting Kaleido.
+2026-05-17 19:10:25,765 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 19:10:25,765 | INFO | shutil.rmtree worked.
+2026-05-17 19:10:25,765 | INFO | Closing browser.
+2026-05-17 19:10:25,767 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 19:10:25,767 | INFO | shutil.rmtree worked.
+2026-05-17 19:10:25,767 | INFO | Closing browser.
+2026-05-17 19:10:25,767 | INFO | Cancelling tasks.
+2026-05-17 19:10:25,767 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 19:10:26,034 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 19:10:26,034 | INFO | shutil.rmtree worked.
+2026-05-17 19:10:26,034 | INFO | Cancelling tasks.
+2026-05-17 19:10:26,034 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 19:10:26,042 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 19:10:26,042 | INFO | shutil.rmtree worked.
+2026-05-17 19:10:26,091 | INFO | Borough pickup chart saved.
+2026-05-17 19:10:26,096 | INFO | Report rebuilt: eda_report.html
+2026-05-17 19:10:26,096 | INFO | Done.

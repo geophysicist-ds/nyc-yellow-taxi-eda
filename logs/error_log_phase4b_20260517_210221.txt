@@ -1,0 +1,51 @@
+2026-05-17 21:02:21,744 | INFO | ============================================================
+2026-05-17 21:02:21,744 | INFO | PHASE 4B: BOROUGH CHOROPLETH MAP
+2026-05-17 21:02:21,744 | INFO | ============================================================
+2026-05-17 21:02:21,935 | INFO | Loaded 560,501 rows
+2026-05-17 21:02:21,935 | INFO | Trying: https://data.cityofnewyork.us/api/geospatial/7t3b-ywvw?method=export&type=GeoJSON
+2026-05-17 21:02:22,301 | WARNING | Failed https://data.cityofnewyork.us/api/geospatial/7t3b-ywvw?method=export&type=GeoJSON: HTTP Error 400: Bad Request
+2026-05-17 21:02:22,302 | INFO | Trying: https://raw.githubusercontent.com/dwillis/nyc-maps/master/boroughs.geojson
+2026-05-17 21:02:22,848 | INFO | SUCCESS — GeoJSON from: https://raw.githubusercontent.com/dwillis/nyc-maps/master/boroughs.geojson
+2026-05-17 21:02:22,848 | INFO | Borough key detected: 'BoroName' → sample value: 'Staten Island'
+2026-05-17 21:02:22,961 | INFO | Borough counts:
+    boro_name  trip_count   pct
+    Manhattan      507747 90.59
+       Queens       35708  6.37
+      Unknown        9185  1.64
+     Brooklyn        7153  1.28
+        Bronx         644  0.11
+          EWR          45  0.01
+Staten Island          19  0.00
+2026-05-17 21:02:22,961 | INFO | Borough match rate: 5/6 — matched=['Bronx', 'Brooklyn', 'Manhattan', 'Queens', 'Staten Island'], unmatched=['EWR']
+2026-05-17 21:02:23,394 | INFO | Map generated — GeoJSON source: boroughs.geojson
+2026-05-17 21:02:23,621 | INFO | Chromium init'ed with kwargs {}
+2026-05-17 21:02:23,652 | INFO | Found chromium path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+2026-05-17 21:02:23,654 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpxrt1uqq9.
+2026-05-17 21:02:23,655 | INFO | Opening browser.
+2026-05-17 21:02:23,655 | INFO | Temp directory created: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpy42f2t_t.
+2026-05-17 21:02:23,655 | INFO | Temporary directory at: /var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpy42f2t_t
+2026-05-17 21:02:25,922 | INFO | Conforming 1 to file:///var/folders/mt/45j0fyn903v6_rhj982n0qvh0000gn/T/tmpxrt1uqq9/index.html
+2026-05-17 21:02:27,231 | INFO | Getting tab from queue (has 1)
+2026-05-17 21:02:27,231 | INFO | Got 3472
+2026-05-17 21:02:32,555 | INFO | Reloading tab 3472 before return.
+2026-05-17 21:02:32,781 | INFO | Putting tab 3472 back (queue size: 0).
+2026-05-17 21:02:32,782 | INFO | Waiting for all cleanups to finish.
+2026-05-17 21:02:32,782 | INFO | Exiting Kaleido.
+2026-05-17 21:02:32,784 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 21:02:32,784 | INFO | shutil.rmtree worked.
+2026-05-17 21:02:32,784 | INFO | Closing browser.
+2026-05-17 21:02:32,786 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 21:02:32,787 | INFO | shutil.rmtree worked.
+2026-05-17 21:02:32,787 | INFO | Closing browser.
+2026-05-17 21:02:32,787 | INFO | Cancelling tasks.
+2026-05-17 21:02:32,788 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 21:02:33,232 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 21:02:33,232 | INFO | shutil.rmtree worked.
+2026-05-17 21:02:33,232 | INFO | Cancelling tasks.
+2026-05-17 21:02:33,233 | INFO | Exiting Kaleido/Choreo.
+2026-05-17 21:02:33,245 | INFO | TemporaryDirectory.cleanup() worked.
+2026-05-17 21:02:33,245 | INFO | shutil.rmtree worked.
+2026-05-17 21:02:33,688 | INFO | Saved: 27_borough_trip_density
+2026-05-17 21:02:33,694 | INFO | ============================================================
+2026-05-17 21:02:33,694 | INFO | PHASE 4B COMPLETE — plot 27 saved to plots/
+2026-05-17 21:02:33,694 | INFO | ============================================================
